@@ -16,9 +16,9 @@ const sketch = ({ width, height }) => {
   let lines = [];
 
   // Draw some circles expanding outward
-  const steps = 5;
-  const count = 20;
-  const spacing = Math.min(width, height) * 0.05;
+  const steps = 50 
+  const count = 25;
+  const spacing = Math.min(width, height) * 0.15;
   const radius = Math.min(width, height) * 0.25;
   for (let j = 0; j < count; j++) {
       const random = 1; 
