@@ -21,6 +21,8 @@
     "regl": "^1.3.11"
   },
   "dependencies": {
-    "canvas-sketch": "^0.1.1"
+    "canvas-sketch": "^0.1.1",
+    "pts": "^0.6.7",
+    "two.js": "^0.7.0-beta.3"
   }
 }
