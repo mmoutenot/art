@@ -2663,6 +2663,11 @@ pako@~1.0.5:
   version "1.0.7"
   resolved "https://registry.yarnpkg.com/pako/-/pako-1.0.7.tgz#2473439021b57f1516c82f58be7275ad8ef1bb27"
 
+paper@^0.12.0:
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/paper/-/paper-0.12.0.tgz#37397312fda5d0aca057a5735e5eeb631ff5baa4"
+  integrity sha512-J4IgSo9g5hdwqEWJOIrl5l0wu2D4JgJmQ/8c/SO7rLKB5POrT5yxWJmXJJ13s2aIQf/Mx9mlCa866BEpvN+gKw==
+
 param-case@2.1.x:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/param-case/-/param-case-2.1.1.tgz#df94fd8cf6531ecf75e6bef9a0858fbc72be2247"
